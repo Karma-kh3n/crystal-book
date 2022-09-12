@@ -17,14 +17,14 @@ Crystal is a programming language with the following goals:
 Do you consider yourself a helpful person? If you find bugs or sections
 which need more clarification you're welcome to contribute to this
 language reference. You can submit a pull request to this repository:
-https://github.com/crystal-lang/crystal-book
+https://github.com/karma-kh3n/crystal-book
 
 Thank you very much!
 
 ### Building and Serving Locally
 
 ```console
-$ git clone https://github.com/crystal-lang/crystal-book
+$ git clone https://github.com/Karma-kh3n/crystal-book
 $ cd crystal-book
 ```
 
